@@ -1,0 +1,9 @@
+a- Falso
+
+b- Verdadeiro
+
+c- Verdadeiro 
+
+d- Verdadeiro
+
+e- Falso
